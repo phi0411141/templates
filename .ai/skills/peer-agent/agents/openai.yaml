@@ -1,0 +1,7 @@
+interface:
+  display_name: "Peer Agent"
+  short_description: "Cross-provider peer review and synthesis"
+  default_prompt: "Use $peer-agent to get an independent peer review, discuss disagreements, and synthesize the best-supported result."
+
+policy:
+  allow_implicit_invocation: false
